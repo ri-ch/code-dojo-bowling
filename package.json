@@ -1,0 +1,9 @@
+{
+  "name": "Bowling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodeunit": "^0.11.2"
+  }
+}
